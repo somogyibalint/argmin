@@ -23,6 +23,7 @@ rand = "0.8.5"
 rand_xoshiro = "0.6.0"
 thiserror = "1.0"
 argmin-math = { path = "../argmin-math", version = "0.4", default-features = false, features = ["primitives"] }
+delegate = "0.12.0"
 # optional
 ctrlc = { version = "3.2.4", features = ["termination"], optional = true }
 getrandom = { version = "0.2", optional = true }

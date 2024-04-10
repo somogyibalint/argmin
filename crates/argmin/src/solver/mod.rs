@@ -18,3 +18,4 @@ pub mod particleswarm;
 pub mod quasinewton;
 pub mod simulatedannealing;
 pub mod trustregion;
+pub mod levenbergmarquardt;
